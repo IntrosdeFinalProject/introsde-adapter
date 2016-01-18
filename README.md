@@ -1,4 +1,6 @@
 # introsde-adapter
 Adapter service
 
-https://nameless-shelf-4839.herokuapp.com
+Description or service endpoints:
+
+https://github.com/IntrosdeFinalProject/introsde-adapter/wiki
